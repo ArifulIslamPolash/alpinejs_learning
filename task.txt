@@ -1,0 +1,2 @@
+1.  start with cdn alpine connect
+2.  npm install and connect alpine js 
